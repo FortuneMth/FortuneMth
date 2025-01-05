@@ -56,6 +56,7 @@ Welcome to my GitHub! I’m an **entry-level UX Engineer** passionate about craf
 ---
 
 ## 📫 Let’s Connect  
+- [UX/UI Design Portfolio](https://www.figma.com/proto/xLsCkwCWlfVPmklmLZV2Yj/Portfolio?page-id=0:1&node-id=1-2&node-type=frame&viewport=188,462,0.17&t=sP1VrNpDD6cpS3fV-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1:2)
 - [Instagram](https://www.instagram.com/fortunemthembu_/)  
 - [LinkedIn](https://www.linkedin.com/in/fortune-mthembu-b65794143)  
 - [GitHub](https://github.com/FortuneMth)  
